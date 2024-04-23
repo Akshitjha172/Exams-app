@@ -34,4 +34,4 @@ To run the Exams.apk application locally, follow these steps:
 4.Build and run the project on an Android emulator or a physical device.
 
 ```bash
-git clone https://github.com/your-username/exams-apk.git
+git clone https://github.com/Akshitjha172/Exams-app.git
